@@ -198,6 +198,7 @@
   },
   "active": "7aec6309183d6c00",
   "lastOpenFiles": [
+    "概念/Edge_AI_Perception.md",
     "概念/大模型防幻觉机制.md",
     "概念/GHA-Runners.md",
     "概念/大模型人格化.md",
@@ -224,7 +225,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "AI工程化",
